@@ -11,5 +11,4 @@ def multiply_two_digit_numbers(A, B):
 A = int(input('Введите первое число: '))
 B = int(input('Введите второе число: '))
 
-# Выводим результат
 print('Произведение:', multiply_two_digit_numbers(A, B))
